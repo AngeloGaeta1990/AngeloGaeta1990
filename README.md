@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AngeloGaeta
 - 👀 I’m interested in Bioinformatics, NGS, Gaming
 -    I learnt CSS, HTML, Python
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Full-stack development
 - 💞️ I’m looking to collaborate on Bioinformatics, NGS, Gaming
 - 📫 How to reach me ...
 
