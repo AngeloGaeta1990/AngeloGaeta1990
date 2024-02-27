@@ -1,6 +1,7 @@
 💻Tech Stack
 ---
-CSS3 HTML5 Markdown JavaScript Python Heroku Bootstrap Django Flask jQuery Postgres Confluence Jira
+CSS3 HTML5 ![image](https://github.com/AngeloGaeta1990/AngeloGaeta1990/assets/131547377/c198c3ee-6c4c-41f5-9f55-547fb348f00c)
+ JavaScript Python Heroku Bootstrap Django Flask jQuery Postgres Confluence Jira
 
 ---
 About Me:
