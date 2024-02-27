@@ -37,3 +37,8 @@ Knowledge-test
 bifxngs_community
 - [Repo](https://github.com/AngeloGaeta1990/bifxngs_community)
 - [live link](https://angelogaeta1990.github.io/bifxngs_community/)
+
+🌐Socials
+---
+![image](https://github.com/AngeloGaeta1990/AngeloGaeta1990/assets/131547377/7baaa5db-163a-42bb-bb27-48078cc3cb63)
+
