@@ -40,5 +40,5 @@ bifxngs_community
 
 🌐Socials
 ---
-![image](https://github.com/AngeloGaeta1990/AngeloGaeta1990/assets/131547377/7baaa5db-163a-42bb-bb27-48078cc3cb63)(https://linkedin.com/in/angelo-gaeta-31193219a)
+![image](https://linkedin.com/in/angelo-gaeta-31193219a)
 
