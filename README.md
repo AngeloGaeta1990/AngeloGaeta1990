@@ -16,11 +16,12 @@
 
 
 ---
-About Me:
-I am a Bioinformatician and Full Stack developer
+## About Me
+
+I am a Bioinformatician and Full Stack developer with experience in Next Generation Sequencing(NGS) and Synthetic Biology
 
 ---
-Portfolio Projects
+## Portfolio Projects
 ---
 The-Gamer-Library
 - [Repo](https://github.com/AngeloGaeta1990/The-Gamer-Library)
@@ -37,6 +38,9 @@ Knowledge-test
 bifxngs_community
 - [Repo](https://github.com/AngeloGaeta1990/bifxngs_community)
 - [live link](https://angelogaeta1990.github.io/bifxngs_community/)
+
+MOODA
+- [Paper](https://academic.oup.com/synbio/article/6/1/ysab026/6387748)
 
 🌐Socials
 ---
