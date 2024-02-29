@@ -18,7 +18,7 @@
 ---
 ## About Me
 
-I am a Bioinformatician and Full Stack developer with experience in Next Generation Sequencing(NGS) and Synthetic Biology
+I am a Bioinformatician and Full Stack developer with experience in Next Generation Sequencing(NGS) and Synthetic Biology.
 
 ---
 ## Portfolio Projects
