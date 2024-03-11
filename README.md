@@ -35,11 +35,11 @@ Knowledge-test
 - [Repo](https://github.com/AngeloGaeta1990/knowledge-test)
 - [live link](https://angelogaeta1990.github.io/knowledge-test/)
 
-bifxngs_community
+NGS Community
 - [Repo](https://github.com/AngeloGaeta1990/bifxngs_community)
 - [live link](https://angelogaeta1990.github.io/bifxngs_community/)
 
-MOODA
+Multi-Objective Optimization Algorithm for DNA sequences and Assembly (MOODA)
 - [Paper](https://academic.oup.com/synbio/article/6/1/ysab026/6387748)
 
 🌐Socials
