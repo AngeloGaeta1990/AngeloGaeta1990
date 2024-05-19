@@ -23,6 +23,10 @@ I am a Bioinformatician and Full Stack developer with experience in Next Generat
 ---
 ## Portfolio Projects
 ---
+Heart risk analysis
+- [Repo](https://github.com/AngeloGaeta1990/Heart_attack_risk)
+- [Live link](https://heart-attack-risk-10ddd79e68a6.herokuapp.com/)
+
 The-Gamer-Library
 - [Repo](https://github.com/AngeloGaeta1990/The-Gamer-Library)
 - [Live link](https://the-gamer-library-a2d80d9a63a6.herokuapp.com/)
